@@ -1,5 +1,5 @@
 <?php
-//SOFTWARE ABSTRACTION LAYER ARTOS 
+//SAL - SOFTWARE ABSTRACTION LAYER 
 	/*
 	 * 0: MkDir (Crear Directorio) (HECHO)
 	 * 1: Chgrp	(Cambiar Grupo)(HECHO)
